@@ -1,73 +1,43 @@
-# Enterprise SOP Chatbot using Langflow, Gemini & RAG
+---
 
-## Project Overview
+# 📸 Project Screenshots
 
-This project demonstrates an AI-powered Enterprise SOP Chatbot built using Langflow, Google Gemini 3.5 Flash, Chroma Local, and Retrieval-Augmented Generation (RAG). The chatbot enables users to retrieve information from Standard Operating Procedure (SOP) documents through semantic search and context-aware responses.
+## 1. Project Creation
+
+![Project Creation](01_Project_Creation.png)
 
 ---
 
-## Business Problem
+## 2. Gemini API Configuration
 
-Organizations maintain hundreds of SOP documents, making it difficult for employees to quickly locate accurate information. This solution improves knowledge accessibility by allowing users to ask questions in natural language.
-
----
-
-## Solution Architecture
-
-User Question
-↓
-Chat Input
-↓
-Knowledge Base (Chroma Local)
-↓
-Parser
-↓
-Prompt
-↓
-Google Gemini 3.5 Flash
-↓
-Chat Response
+![Gemini Configuration](03_Gemini_Configuration.png)
 
 ---
 
-## Key Features
+## 3. Knowledge Base Creation
 
-- Enterprise SOP Knowledge Base
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Context-aware Responses
-- Reduced AI Hallucinations
-- Langflow Visual Workflow
+![Knowledge Base](04_Knowledge_Base_Creation.png)
 
 ---
 
-## Technology Stack
+## 4. Document Ingestion
 
-- Langflow
-- Google Gemini 3.5 Flash
-- Chroma Local
-- Vector Embeddings
-- Retrieval-Augmented Generation (RAG)
+![Document Ingestion](06_Document_Ingestion.png)
 
 ---
 
-## Repository Contents
+## 5. Complete RAG Workflow
 
-- Enterprise_SOP_Chatbot_RAG_Project_Report.pdf
-- enterprise_sop_chatbot_flow.json
-
----
-
-## Future Enhancements
-
-- SharePoint Integration
-- OneDrive Integration
-- Amazon S3 Integration
-- Automated Document Ingestion
-- Production Deployment
+![Workflow](08_Complete_RAG_Workflow.png)
 
 ---
 
-## Author
+## 6. Chatbot Test
 
-**Pallabi Pandit**
+![Chatbot Test](09_Chatbot_Test.png)
+
+---
+
+## 7. RAG Validation
+
+![Validation](10_RAG_Validation.png)
