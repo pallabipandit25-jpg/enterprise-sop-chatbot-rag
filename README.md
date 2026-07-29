@@ -48,7 +48,7 @@ Users can upload SOP documents to build and update the AI knowledge base.
 
 The knowledge base displays indexed documents that are available for semantic search and AI-powered question answering.
 
-![Knowledge Base](Build%20Knowledge%20Base.png)
+![Admin Dashboard](./Admin%20Dashboard.png)
 
 ---
 
