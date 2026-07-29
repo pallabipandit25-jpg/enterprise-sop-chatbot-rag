@@ -11,6 +11,8 @@ The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant docu
 
 # 📸 Project Highlights
 
+📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
+
 ## Complete RAG Workflow
 ![Workflow](08_Complete_RAG_Workflow.png)
 
