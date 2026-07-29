@@ -56,7 +56,7 @@ The knowledge base displays indexed documents that are available for semantic se
 
 The dashboard provides insights into uploaded SOPs, chatbot usage, system health, and user activity.
 
-![Admin Dashboard](Admin%20Dashboard.png)
+[![Admin Dashboard](Admin%20Dashboard.png)](https://github.com/pallabipandit25-jpg/enterprise-sop-chatbot-rag/blob/main/Admin%20Dashboard%20.png)
 
 ---
 
