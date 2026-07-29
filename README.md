@@ -13,7 +13,6 @@ The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant docu
 
 📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
 
-Login Screen.png
 
 # 📸 Project Highlights
 
