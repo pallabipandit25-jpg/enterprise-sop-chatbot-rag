@@ -12,7 +12,63 @@ The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant docu
 
 
 📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
-Login Screen.png
+
+# Enterprise SOP Chatbot (RAG-Based AI Assistant)
+
+## Overview
+
+...your overview text...
+
+📄 Product Wireframes (Figma): Enterprise_SOP_Chatbot_Wireframes.pdf
+## 🔐 Login Screen
+
+The login screen provides secure access to the Enterprise SOP Chatbot.
+
+![Login Screen](Login%20Screen.png)
+
+---
+
+## 💬 Chat Screen
+
+The chatbot interface allows users to ask questions about enterprise SOPs and receive AI-powered responses based on the organization's knowledge base.
+
+![Chat Screen](Chat%20Screen.png)
+
+---
+
+## 📂 Upload SOP Documents
+
+Users can upload SOP documents to build and update the AI knowledge base.
+
+![Upload SOP Documents](Upload%20SOP%20Documents.png)
+
+---
+
+## 📚 Knowledge Base
+
+The knowledge base displays indexed documents that are available for semantic search and AI-powered question answering.
+
+![Knowledge Base](Build%20Knowledge%20Base.png)
+
+---
+
+## 📊 Admin Dashboard
+
+The dashboard provides insights into uploaded SOPs, chatbot usage, system health, and user activity.
+
+![Admin Dashboard](Admin%20Dashboard.png)
+
+---
+
+## 🧠 RAG Pipeline Architecture
+
+The RAG architecture illustrates how documents are processed, embedded, stored in a vector database, and retrieved to generate accurate responses.
+
+![RAG Pipeline Architecture](RAG%20Pipeline%20Architecture.png)
+# 📸 Project Highlights
+
+## Complete RAG Workflow
+![Workflow](08_Complete_RAG_Workflow.png)
 
 # 📸 Project Highlights
 
