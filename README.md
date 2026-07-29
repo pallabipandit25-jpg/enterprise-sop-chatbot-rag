@@ -8,10 +8,9 @@ The Enterprise SOP Chatbot is an AI-powered assistant designed to help employees
 This project demonstrates the complete product development lifecycle—from product ideation and wireframing in Figma to designing a Retrieval-Augmented Generation (RAG) architecture and implementing an AI-powered enterprise chatbot.
 
 The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant document content before generating responses, ensuring accurate and context-aware answers with source references.
+📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
 
 # 📸 Project Highlights
-
-📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
 
 ## Complete RAG Workflow
 ![Workflow](08_Complete_RAG_Workflow.png)
