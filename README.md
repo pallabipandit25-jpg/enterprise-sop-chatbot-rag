@@ -70,10 +70,6 @@ The RAG architecture illustrates how documents are processed, embedded, stored i
 ## Complete RAG Workflow
 ![Workflow](08_Complete_RAG_Workflow.png)
 
-# 📸 Project Highlights
-
-## Complete RAG Workflow
-![Workflow](08_Complete_RAG_Workflow.png)
 
 ---
 
