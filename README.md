@@ -9,11 +9,15 @@ This project demonstrates the complete product development lifecycle—from prod
 
 The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant document content before generating responses, ensuring accurate and context-aware answers with source references.
 
+
+
 ## 🏗️ High-Level Architecture
 
 The AI Knowledge Chatbot follows a Retrieval-Augmented Generation (RAG) architecture.
 
 ![High-Level Architecture](docs/HLD.png)
+
+
 
 
 📄 **Product Wireframes (Figma):** [Enterprise_SOP_Chatbot_Wireframes.pdf](Enterprise_SOP_Chatbot_Wireframes.pdf)
