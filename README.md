@@ -15,8 +15,7 @@ The solution uses Retrieval-Augmented Generation (RAG) to retrieve relevant docu
 
 The AI Knowledge Chatbot follows a Retrieval-Augmented Generation (RAG) architecture.
 
-![High-Level Architecture](docs/HLD.png)
-
+![High-Level Architecture](docs/AI_Knowledge_Chatbot_HLD.png)
 
 
 
